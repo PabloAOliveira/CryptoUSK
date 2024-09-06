@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
   } else {
     const searchHeading = document.getElementById("searchHeading");
     const searchContainer = document.querySelector(".search-container");
-    searchContainer.innerHTML = `<p style="color: red; text-align: center; margin-bottom: 8px">Nothing To Show...</p>`;
+    searchContainer.innerHTML = `<p style="color: red; text-align: center; margin-bottom: 8px">Nothing To Show, Type in the Search Bar what you are looking for</p>`;
     searchHeading.innerText = "Please search something...";
   }
 });
