@@ -7,11 +7,19 @@ com gráficos detalhados e uma interface intuitiva para análise de dados do mer
 ⚙️ Funcionalidades
 <br />
 📊 Atualizações em tempo real dos preços de criptomoedas e NFTs
+<br />
 📈 Gráficos interativos para análise detalhada do mercado
+<br />
 🔍 Tendências e insights sobre o universo cripto e NFTs
+<br />
 🌐 Interface amigável e de fácil navegação
+<br />
 🛠️ Tecnologias Utilizadas
+<br />
 Frontend: HTML, CSS, JavaScript
+<br />
 APIs: CoinGecko API, tradingview API
+<br />
 Gráficos: Chart.js, D3.js
+<br />
 Deploy: Vercel
